@@ -5,14 +5,7 @@
 
 
 
-#EXTINF:-1,KU | RUDAW TV
-https://live.rudaw.net/hls/rudaw-tv/master.m3u8
-
-#EXTINF:-1,KU | AVA MEDIA TV
-https://ava2.store/upload/ava.m3u8
-
-#EXTINF:-1,KU | KURDISTAN 24 TV
-http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/324572.ts
-
-#EXTINF:-1,KU | SPEDA TV HD
-https://livestream.almanasa.tv:8214/sport/ch3/adaptive.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="NRT HD" tvg-logo="https://i.ibb.co/KD31K9t/nrt.png" group-title="News",NRT HD
+http://185.95.184.33:25461/live/120541/20364/86.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Rudaw" tvg-logo="https://i.ibb.co/Yfq26L1/rudaw.jpg" group-title="News",Rudaw
+http://185.95.184.33:25461/live/120541/20364/87.m3u8
