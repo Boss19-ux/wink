@@ -1,0 +1,18 @@
+#EXTM3U
+
+
+
+
+
+
+#EXTINF:-1,KU | RUDAW TV
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+
+#EXTINF:-1,KU | AVA MEDIA TV
+https://ava2.store/upload/ava.m3u8
+
+#EXTINF:-1,KU | KURDISTAN 24 TV
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/324572.ts
+
+#EXTINF:-1,KU | SPEDA TV HD
+http://line.trxdnscloud.ru:80/live/1naebx0n1p/en1cy28eqj/324587.ts
