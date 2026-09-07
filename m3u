@@ -36,3 +36,5 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1,KU | TRT KURDI TV
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 AR | Al Iraqia Sport
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
