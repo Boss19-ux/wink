@@ -12,17 +12,11 @@ https://live.channel8.com/Channel8-Kurdish/index.m3u8
 #EXTINF:-1,KU | WAAR TV HD
 https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8
 
-#EXTINF:-1,KU | BANGAWAZ TV HD
-http://bangawaztv.ddns.net:40/live/bangawaztv/playlist.m3u8
-
 #EXTINF:-1,KU | ZAROK TV KURMANJI
 https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
 
 #EXTINF:-1,KU | TOM AND JERRY TV
 https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-
-#EXTINF:-1,KU | IMK QURAN TV
-http://avrstream.com:1935/live/IMKQURANHD/playlist.m3u8
 
 #EXTINF:-1,AR | MBC 3 TV
 https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
