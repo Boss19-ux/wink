@@ -1,0 +1,34 @@
+#EXTM3U
+
+#EXTINF:-1,KU | RUDAW TV
+https://live.rudaw.net/hls/rudaw-tv/master.m3u8
+
+#EXTINF:-1,KU | AVA MEDIA TV
+https://ava2.store/upload/ava.m3u8
+
+#EXTINF:-1,KU | CHANNEL 8 
+https://live.channel8.com/Channel8-Kurdish/index.m3u8
+
+#EXTINF:-1,KU | WAAR TV HD
+https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8
+
+#EXTINF:-1,KU | ZAROK TV KURMANJI
+https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
+
+#EXTINF:-1,KU | TOM AND JERRY TV
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+
+#EXTINF:-1,AR | MBC 3 TV
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
+
+#EXTINF:-1,KU | TRT NEWS/HABER TV
+https://tv-trthaber.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,KU | TRT MUSIC TV
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1,KU | TRT KURDI TV
+https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1 AR | Al Iraqia Sport
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
