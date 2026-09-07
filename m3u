@@ -6,6 +6,4 @@
 
 
 #EXTINF:-1 tvg-id="" tvg-name="NRT HD" tvg-logo="https://i.ibb.co/KD31K9t/nrt.png" group-title="News",NRT HD
-http://185.95.184.33:25461/live/120541/20364/86.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Rudaw" tvg-logo="https://i.ibb.co/Yfq26L1/rudaw.jpg" group-title="News",Rudaw
-http://185.95.184.33:25461/live/120541/20364/87.m3u8
+http://vlue.vip:80/live/526413608002/338287388386/757045
