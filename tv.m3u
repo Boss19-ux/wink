@@ -6,6 +6,9 @@ http://xxtv.me:8080/live/
 #EXTINF:-1,KU | RUDAW TV
 https://live.rudaw.net/hls/rudaw-tv/master.m3u8
 
+#EXTINF:-1,KU | NRT TV SPORT
+http://xxtv.me:8080/live/
+
 #EXTINF:-1,KU | AVA MEDIA TV
 https://ava2.store/upload/ava.m3u8
 
