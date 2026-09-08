@@ -39,4 +39,17 @@ https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 #EXTINF:-1 tvg-id="AlIraqiaKurdish.iq@HD",Al Iraqia Kurdish (720p)
 https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
 
+#EXTINF:-1  tvg-name=" Duhok Sports" tvg-logo="https://i.postimg.cc/rsS7dLqH/Duhok-Sport-200.jpg" group-title="KURD SPORT",DUHOK SPORT
+http://new.tryv24.shop:80/Nboxtv_857858/KsAKkuKx/129834
 
+#EXTINF:-1  tvg-name="ASO SPORT" tvg-logo="https://i.postimg.cc/L6n6cKWk/Ava-Sport-200.png" group-title="KURD SPORT",ASO SPORT
+https://live9.karwan.tv/Asosportyusfstore/index.m3u8
+
+#EXTINF:-1  tvg-name="ASTERA SPORT" tvg-logo="https://i.postimg.cc/05mTX77C/Astera-Sport-200.jpg" group-title="KURD SPORT",ASTERA SPORT
+http://blue4k.xyz:8080/live/05070793386/6750b02cea052/531817.m3u8
+
+#EXTINF:-1  tvg-name="LD SPORT 1" tvg-logo="https://i.postimg.cc/0jFZfGkH/LD-Sport-1-200.jpg" group-title="KURD SPORT",LD SPORT 1
+http://blue4k.xyz:8080/live/05070793386/6750b02cea052/531834.m3u8
+
+#EXTINF:-1  tvg-name="LD SPORT 1 HD" tvg-logo="https://i.postimg.cc/0jFZfGkH/LD-Sport-1-200.jpg" group-title="KURD SPORT",LD SPORT 1
+https://live9.karwan.tv/Ldsportyusfstore/index.m3u8
