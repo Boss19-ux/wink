@@ -34,12 +34,12 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="AlIraqiaSport.iq@SD",Al Iraqia Sport (720p)
-https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8?sid=rdmcy5e6mok2j3ab
 
 #EXTINF:-1 tvg-id="AlIraqiaKurdish.iq@HD",Al Iraqia Kurdish (720p)
 https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
 
-#EXTINF:-1,Al Iraqia Syrian 
+#EXTINF:-1,Al Iraqia Syriac 
 https://imn-live.esite-lab.com/hls/iraqia-syriac.m3u8?sid=guiukysdmpb38igu
 
 #EXTINF:-1  tvg-name="NRT SPORT" tvg-logo="https://i.postimg.cc/Prgh0LYh/NRT-Sport-200.jpg" group-title="KURD SPORT",NRT SPORT HD
