@@ -34,7 +34,7 @@ https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-id="AlIraqiaSport.iq@SD",Al Iraqia Sport (720p)
-https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8?sid=rdmcy5e6mok2j3ab
+https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
 
 #EXTINF:-1 tvg-id="AlIraqiaKurdish.iq@HD",Al Iraqia Kurdish (720p)
 https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
@@ -52,7 +52,7 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 https://barham.short.gy/zvgsport.m3u8
 
 #EXTINF:-1,KU | alwwwan SPORT TV
-https://www.youtube.com/s/_/ytmainappweb/_/js/k=ytmainappweb.kevlar_base.en_US.wDCKWufap4w.es5.O/am=AAAAAAEAEAASBQ/d=1/br=1/rs=AGKMywHgqVNUZgBzOSemWIM3DcB-DP7cSg/m=kevlar_base_module,kevlar_main_module,kevlar_base_sync_mod_chunk
+http://server.sibfungold.info:8080/pacha-man1/e0VaVPskUa/50637
 
 #EXTINF:-1,KU | Biner TV
 blob:https://www.krdtv.online/7e843118-1a9b-4fdb-a4ac-e97ab5dc130c
