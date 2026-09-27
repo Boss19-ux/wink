@@ -82,3 +82,6 @@ http://baskhd.ddns.net:40/live/Like_Sport/playlist.m3u8
 
 #EXTINF:-1,KU | SKYSPORT PL SPORT
 http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
+
+#EXTINF:-1,TR | A SPORT
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
