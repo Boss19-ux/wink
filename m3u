@@ -60,5 +60,8 @@ https://kurdtv.org/api/public/hls?u=https://prod-fastly-us-west-2.video.pscp.tv/
 #EXTINF:-1,KU | MNE SPORT  TV
 /api/public/hls?u=http%3A%2F%2Fmmn.mypsx.net%3A1935%2Flive%2Fmmnhdsport%2Fplaylist.m3u8
 
-#EXTINF:-1,KU | Biner TV
-blob:https://www.krdtv.online/7e843118-1a9b-4fdb-a4ac-e97ab5dc130c
+#EXTINF:-1,KU | BEIN SPORT 1 8K SD
+http://iptvhouse.pro:80/live/7598066813/503118f6f7/544474.m3u8
+
+#EXTINF:-1,KU | BEIN SPORT 2 8K SD
+http://iptvhouse.pro:80/live/7598066813/503118f6f7/544473.m3u8
