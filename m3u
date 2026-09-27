@@ -58,7 +58,7 @@ https://kurdtv.org/api/public/hls?u=https://prod-fastly-us-west-2.video.pscp.tv/
 #EXTINF:-1,KU | NRTTTT SPORT  TV
 http://185.95.184.33:25461/live/120541/20364/167.m3u8
 
-#EXTINF:-1,KU | ASTERA SPORT TV
+#EXTINF:-1,KU | ASTERAa SPORT TV
 http://185.95.184.33:25461/live/120541/20364/149.m3u8
 
 
