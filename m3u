@@ -57,5 +57,8 @@ https://kurdsport.online/25136aa9-a1d4-4949-a7b5-384ef23d8979
 #EXTINF:-1,KU | NRT SPORT  TV
 https://kurdtv.org/api/public/hls?u=https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/8JA18y0l44_0AMpCnZGgOPQgft-CsbM541KP9Nb1iBsNL6z5YphLFA1XT269eJFZyDkUDaybf-JAn4x2jhfdCw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live
 
+#EXTINF:-1,KU | MNE SPORT  TV
+/api/public/hls?u=http%3A%2F%2Fmmn.mypsx.net%3A1935%2Flive%2Fmmnhdsport%2Fplaylist.m3u8
+
 #EXTINF:-1,KU | Biner TV
 blob:https://www.krdtv.online/7e843118-1a9b-4fdb-a4ac-e97ab5dc130c
