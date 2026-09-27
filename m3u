@@ -68,8 +68,17 @@ http://iptvhouse.pro:80/live/7598066813/503118f6f7/544474.m3u8
 #EXTINF:-1,KU | BEIN SPORT 2 8K SD
 http://iptvhouse.pro:80/live/7598066813/503118f6f7/544473.m3u8
 
-#EXTINF:-1,KU | LD SPORT 
-http://sinyaltv.online:8080/live/selcukkaratekin/31012023/161600.m3u8
+#EXTINF:-1,KU | Qallam SPORT 
+http://halowtest.fun:8089/Halowtv/Q-Sports/index.m3u8
 
-#EXTINF:-1,KU | ZAxo SPORT 
-http://sinyaltv.online:8080/live/selcukkaratekin/31012023/161650.m3u8
+#EXTINF:-1,KU | Qaz SPORT 
+http://92.46.127.146:8080/qazsport/index.m3u8
+
+#EXTINF:-1,KU | Kurdistan SPORT
+http://bblserver.ddns.net:1936/live/ksport/playlist.m3u8
+
+#EXTINF:-1,KU | Like SPORT
+http://baskhd.ddns.net:40/live/Like_Sport/playlist.m3u8
+
+#EXTINF:-1,KU | SKYSPORT PL SPORT
+http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
