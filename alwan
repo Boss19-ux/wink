@@ -1,58 +1,250 @@
 #EXTM3U
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: MEDYA HABER HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/94642
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: MEDYA HABER FHD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/339810
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: WAAR HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/312109
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: WAAR FHD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511305
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: STERK TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511306
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: STERK TV FHD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/588
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: JIN TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/165271
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: JIN TV FHD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/528767
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KURDMAX TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/579
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KURDMAX TV FHD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/528771
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: RONAHI TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/586
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: RONAHI TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/528769
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: CIRA TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511332
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: CIRA TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/7604
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: RUDAW TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/1126
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: RUDAW TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/528770
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: MED MUSIC TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511315
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: ATV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/323683
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: ATV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/528768
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: NRT HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/8174
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: NRT FHD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511312
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: NRT 2 HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/8175
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: NET TV FHD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/528775
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: TRT KURDI HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/2942
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: TRT KURDI FHD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/528774
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: SPEDA TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/49881
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: SPEDA TV FHD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511307
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KURDISTAN TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/578
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KURDISTAN TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511319
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KURDSAT TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/8178
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KURDSAT TV FHD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511318
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: ZAGROS TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/581
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: ZAGROS TV FHD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/528773
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: ARYEN TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/528776
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: ARYEN TV FHD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/8184
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: PAYAM TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/259179
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: ZAROK TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/30354
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: ZAROK TV FHD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/528772
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KURDISTAN 24
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/7622
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KURDISTAN 24 HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378353
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KURDSAT NEWS
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/8176
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: SAHAR KURDI
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/30476
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: GALI KURDISTAN
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/8183
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: GEM TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/8185
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: AVA TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/30471
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: AMOZHGARY TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/259127
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: ZED TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/259182
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: TURKMENELI TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/339765
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: NUBAR HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/459193
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: BABYLON TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/339864
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: DERWAZE TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/339851
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: LAWAN TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/339814
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: RANYA HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/339781
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KURDSHOW
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/268953
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: NRT 3 KIDS HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378349
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: NRT 4 HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378348
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: AVA ENTERTAINMENT
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378344
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: ZAZA TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378333
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: RASAN HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378330
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: ZED PLUS
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378329
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KIRKUK TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/471548
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: IRAQIA KURDISH TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/471546
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: BMC HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/471484
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: NEWLINE HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378312
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: NEWLINE2 HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378311
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: RENG HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378307
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: RENG DOCUMENT HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378306
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: IRAQIA KURD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378297
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: DIMEN
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378290
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: CIHAN HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378282
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: ZNAR
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378279
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: TASAWF
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378273
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: MINARA TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378249
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KOMAL RANYA
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378243
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: SAUDI CH. FOR SUNNAH
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378239
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: U TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378233
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: U2 TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378232
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: BARNMAY BARNAMA TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378225
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: JUDI TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378219
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: ZAXO
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378211
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: BINER
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378196
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: LD NUJIN
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378192
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: AZARBAYJAN
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378189
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: MED MUSIC
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/587
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KURDMAX MUSIC
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378200
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KERMANSHAH
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378187
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: JOJO MAMA HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378261
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: BASK 4K
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511362
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KANI 4K
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511357
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: ZAXO 4K
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511355
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: NOOR 4K
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511353
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: LAWAN HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511351
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: DERWAZE 4K
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511348
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: TASAWF 4K
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511347
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: MINHRAB HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511346
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: ZNAR 4K
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511345
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: NEW MAX BOX
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511344
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: AMOZHGARY TV HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511339
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: AVA MEDIA
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511335
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: BANGAWAZ
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511334
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: DUHOK TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511329
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: EURO KURD HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511328
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: BABOLY HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511327
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: DIMEN HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511326
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KRD CARTOON 2 HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511325
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: MIHRAB
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511313
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: SAHAR TV
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511309
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: SAUDI SUNNAH
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511308
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: ZAROK SORANI
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511304
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: ZHYAR
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511303
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KURD MOVIES 4K
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511350
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: SIMA MOVIES 4K
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511340
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KURDCINEMA ACTION HD2
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511321
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KURDCINEMA ACTION HD3
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511320
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KURDSHOW HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511317
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KURDMAX SHOW
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/259146
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KURDMAX SHOW HD SORANI
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/339816
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KURDMAX HD KURMANJI
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378343
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KURDMAX HD SORANI
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378342
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: KURDMAX SHOW HD KURMANJI
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/378340
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: DUHOK SPORT 4K
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511363
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: NRT SPORT HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511352
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: SEE SPORT 3 4K
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511349
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: DASINYA SPORT
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511330
 
-#EXTINF:-1,KU | RUDAW TV
-https://live.rudaw.net/hls/rudaw-tv/master.m3u8
-
-#EXTINF:-1,KU | WAAR TV HD
-https://live.kwikmotion.com/waarmedialive/waarmedia.smil/playlist.m3u8
-
-#EXTINF:-1,KU | AVA MEDIA TV
-https://ava2.store/upload/ava.m3u8
-
-#EXTINF:-1 tvg-id="Kurdistan24.iq@SD",Kurdistan 24 (1080p)
-https://hlspackager.akamaized.net/live/DB/K24/HLS/K24.m3u8
-
-#EXTINF:-1,KU | CHANNEL 8 
-https://live.channel8.com/Channel8-Kurdish/index.m3u8
-
-#EXTINF:-1,KU | ZAROK TV KURMANJI
-https://zindikurmanci.zaroktv.com.tr/hls/stream.m3u8
-
-#EXTINF:-1,KU | TOM AND JERRY TV
-https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
-
-#EXTINF:-1,AR | MBC 3 TV
-https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-3-usa/5d58265a862a476dc7f97694addb5ded/index.m3u8
-
-#EXTINF:-1,KU | TRT NEWS/HABER TV
-https://tv-trthaber.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1,KU | TRT MUSIC TV
-https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1,KU | TRT KURDI TV
-https://tv-trtkurdi.medya.trt.com.tr/master.m3u8
-
-#EXTINF:-1 tvg-id="AlIraqiaSport.iq@SD",Al Iraqia Sport (720p)
-https://imn-live.esite-lab.com/hls/iraqia-sports-1.m3u8
-
-#EXTINF:-1 tvg-id="AlIraqiaKurdish.iq@HD",Al Iraqia Kurdish (720p)
-https://imn-live.esite-lab.com/hls/iraqia-kurdish.m3u8
-
-#EXTINF:-1,Al Iraqia Syriac
-https://imn-live.esite-lab.com/hls/iraqia-syriac.m3u8?sid=guiukysdmpb38igu
-
-#EXTINF:-1,KU | GEWHER SPORT TV
-https://iptv-link.short.gy/Gewher_Sport.m3u8
-
-#EXTINF:-1,KU | MMN SPORT TV
-http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
-
-#EXTINF:-1,KU | ZAYTOUN SPORT TV
-https://barham.short.gy/zvgsport.m3u8
-
-#EXTINF:-1,KU | Alwan SPORT 1 TV
-https://alwanlive.stream/545f96bc-9f93-47d5-a3ef-330183139195
-
-#EXTINF:-1,KU | Biner TV
-blob:https://www.krdtv.online/7e843118-1a9b-4fdb-a4ac-e97ab5dc130c
