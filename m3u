@@ -67,14 +67,23 @@ http://iptvhouse.pro:80/live/7598066813/503118f6f7/544474.m3u8
 #EXTINF:-1,KU | BEIN SPORT 2 8K SD
 http://iptvhouse.pro:80/live/7598066813/503118f6f7/544473.m3u8
 
-#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: DUHOK SPORT 4K
-http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511363
-#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: NRT SPORT HD
-http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511352
-#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: SEE SPORT 3 4K
-http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511349
-#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: DASINYA SPORT
-http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511330
-
+#EXTINF:-1 tvg-id="BeinSportsPremium1.qa" tvg-name="beIN Sports 01 [HD-720p]" tvg-logo="https://l.pha.tv/bein/PRE01.png" group-title="beIN Sports ᴴᴰ بي إن سبورتس",beIN Sports 01 [HD-720p]
+http://pha.tv:8080/live/moxelbashir/ab980587/9ff299ef-2a06-4d98-a041-467bbc9e7fb6.m3u
+#EXTINF:-1 tvg-id="BeinSportsPremium3.qa" tvg-name="beIN Sports 02 [HD-720p]" tvg-logo="https://l.pha.tv/bein/PRE03.png" group-title="beIN Sports ᴴᴰ بي إن سبورتس",beIN Sports 02 [HD-720p]
+http://pha.tv:8080/live/moxelbashir/ab980587/f5fa7f80-0a5b-43d3-9b5c-3823494faae9.m3u
+#EXTINF:-1 tvg-id="beINSports1Ar.qa" tvg-name="beIN Sports 03 [HD-720p]" tvg-logo="https://l.pha.tv/bein/01.png" group-title="beIN Sports ᴴᴰ بي إن سبورتس",beIN Sports 03 [HD-720p]
+http://pha.tv:8080/live/moxelbashir/ab980587/de68141b-b88b-4195-a2e0-85660ea6bcd0.m3u
+#EXTINF:-1 tvg-id="beINSports2Ar.qa" tvg-name="beIN Sports 04 [HD-720p]" tvg-logo="https://l.pha.tv/bein/02.png" group-title="beIN Sports ᴴᴰ بي إن سبورتس",beIN Sports 04 [HD-720p]
+http://pha.tv:8080/live/moxelbashir/ab980587/4b58d99f-131f-4bb1-9a71-f0944d342edc.m3u
+#EXTINF:-1 tvg-id="beINSports3Ar.qa" tvg-name="beIN Sports 05 [HD-720p]" tvg-logo="https://l.pha.tv/bein/03.png" group-title="beIN Sports ᴴᴰ بي إن سبورتس",beIN Sports 05 [HD-720p]
+http://pha.tv:8080/live/moxelbashir/ab980587/12e485de-1773-4511-92f7-b03ae339c884.m3u
+#EXTINF:-1 tvg-id="beINSports4Ar.qa" tvg-name="beIN Sports 06 [HD-720p]" tvg-logo="https://l.pha.tv/bein/04.png" group-title="beIN Sports ᴴᴰ بي إن سبورتس",beIN Sports 06 [HD-720p]
+http://pha.tv:8080/live/moxelbashir/ab980587/62455746-3c7f-4d07-9401-fefead7364b6.m3u
+#EXTINF:-1 tvg-id="beINSports5Ar.qa" tvg-name="beIN Sports 07 [HD-720p]" tvg-logo="https://l.pha.tv/bein/05.png" group-title="beIN Sports ᴴᴰ بي إن سبورتس",beIN Sports 07 [HD-720p]
+http://pha.tv:8080/live/moxelbashir/ab980587/c617ed84-24fc-48df-b6ca-8a2b9912c46b.m3u
+#EXTINF:-1 tvg-id="beINSports6Ar.qa" tvg-name="beIN Sports 08 [HD-720p]" tvg-logo="https://l.pha.tv/bein/06.png" group-title="beIN Sports ᴴᴰ بي إن سبورتس",beIN Sports 08 [HD-720p]
+http://pha.tv:8080/live/moxelbashir/ab980587/6bcb2de5-d0a5-4fef-b3be-acbec756d0ec.m3u
+#EXTINF:-1 tvg-id="beINSports7Ar.qa" tvg-name="beIN Sports 09 [HD-720p]" tvg-logo="https://l.pha.tv/bein/07.png" group-title="beIN Sports ᴴᴰ بي إن سبورتس",beIN Sports 09 [HD-720p]
+http://pha.tv:8080/live/moxelbashir/ab980587/4669b123-58b8-4252-9e08-1e5781cfb9d7.m3u
 #EXTINF:-1,TR | A SPORTtt
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
