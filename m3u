@@ -52,8 +52,6 @@ http://mmn.mypsx.net:1935/live/mmnhdsport/playlist.m3u8
 https://barham.short.gy/zvgsport.m3u8
 
 
-#EXTINF:-1,KU | NRT SPORT  TV
-https://kurdtv.org/api/public/hls?u=https://prod-fastly-us-west-2.video.pscp.tv/Transcoding/v1/hls/8JA18y0l44_0AMpCnZGgOPQgft-CsbM541KP9Nb1iBsNL6z5YphLFA1XT269eJFZyDkUDaybf-JAn4x2jhfdCw/transcode/us-west-2/periscope-replay-direct-prod-us-west-2-public/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCIsInZlcnNpb24iOiIyIn0.eyJFbmNvZGVyU2V0dGluZyI6ImVuY29kZXJfc2V0dGluZ183MjBwMzBfMTAiLCJIZWlnaHQiOjcyMCwiS2JwcyI6Mjc1MCwiV2lkdGgiOjEyODB9.ldktM4fCFRfkP4ZEBfZPKtlAUNAcTPkoz994YJAzWpE/dynamic_delta.m3u8?type=live
 
 #EXTINF:-1,KU | NRTTTT SPORT  TV
 http://185.95.184.33:25461/live/120541/20364/167.m3u8
@@ -68,20 +66,14 @@ http://iptvhouse.pro:80/live/7598066813/503118f6f7/544474.m3u8
 #EXTINF:-1,KU | BEIN SPORT 2 8K SD
 http://iptvhouse.pro:80/live/7598066813/503118f6f7/544473.m3u8
 
-#EXTINF:-1,KU | Qallam SPORT 
-http://halowtest.fun:8089/Halowtv/Q-Sports/index.m3u8
-
-#EXTINF:-1,KU | Qaz SPORT 
-http://92.46.127.146:8080/qazsport/index.m3u8
-
-#EXTINF:-1,KU | Kurdistan SPORT
-http://bblserver.ddns.net:1936/live/ksport/playlist.m3u8
-
-#EXTINF:-1,KU | Like SPORT
-http://baskhd.ddns.net:40/live/Like_Sport/playlist.m3u8
-
-#EXTINF:-1,KU | SKYSPORT PL SPORT
-http://stream.tvtap.live:8081/live/skysports-premier-league.stream/playlist.m3u8
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: DUHOK SPORT 4K
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511363
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: NRT SPORT HD
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511352
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: SEE SPORT 3 4K
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511349
+#EXTINF:0 tvg-id="ext" group-title="KU KURDISH",KURD: DASINYA SPORT
+http://maxhd.org:8080/4Em5Oq93Yk/4eZ7xyqNB5/511330
 
 #EXTINF:-1,TR | A SPORT
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
